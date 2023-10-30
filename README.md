@@ -1,5 +1,5 @@
 # KPRanjith
-My profile Repo
+
 <h1 align="center">Hi 👋, I'm K P Ranjith</h1>
 <h3 align="center">A passionate 💜 Android Trainer & developer from India 🇮🇳</h3>
 
@@ -33,3 +33,5 @@ My profile Repo
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjithstar256&show_icons=true&locale=en" alt="ranjithstar256" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjithstar256&" alt="ranjithstar256" /></p>
+
+https://developer.android.com/static/images/jetpack/compose/landing-preview-animation.gif
