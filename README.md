@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjithstar256&" alt="ranjithstar256" /></p>
 
-https://developer.android.com/static/images/jetpack/compose/landing-preview-animation.gif
+![](https://github.com/ranjithstar256/ranjithstar256/blob/main/landing-preview-animation.gif)
