@@ -32,8 +32,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjithstar256&show_icons=true&locale=en" alt="ranjithstar256" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjithstar256&" alt="ranjithstar256" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjithstar256&" alt="ranjithstar256" /></p>
 <img src="https://github.com/ranjithstar256/ranjithstar256/blob/main/landing-preview-animation.gif" width="200" height="400">
-</p>
+
 
 
