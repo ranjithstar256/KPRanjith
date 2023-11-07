@@ -35,3 +35,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjithstar256&" alt="ranjithstar256" /></p>
 
 ![](https://github.com/ranjithstar256/ranjithstar256/blob/main/landing-preview-animation.gif)
+<img src="https://github.com/ranjithstar256/ranjithstar256/blob/main/landing-preview-animation.gif" width="200" height="200">
